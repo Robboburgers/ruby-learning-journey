@@ -1,0 +1,8 @@
+# Initial commit for Ruby Learning Journey
+
+Starting my Ruby learning adventure with:
+- Chris Pine's "Learn to Program" book
+- Claude Ruby drum machine project
+- VS Code + Terminal workflow
+
+Let's code! 🚀

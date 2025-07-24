@@ -1,0 +1,37 @@
+# Ruby files
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+# Bundler
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+# IRB history
+.irb_history
+
+# Mac files
+.DS_Store
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Personal notes (if you want to keep some private)
+/private/
+/scratch/
+
+# Logs
+*.log
